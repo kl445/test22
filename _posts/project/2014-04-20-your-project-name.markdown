@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "디지털 공학 실"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
@@ -11,11 +11,15 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-client: Wonder Corp.
-website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####디지털 공학 실습 - 이강환
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+##평가기준:
+중간고사 30 기말고사 30 출석 20 과제 10 
+
+##교육 목적:
+<<<<<<< HEAD
+컴퓨터 공학의 기본을 이루고 있는 디지털 논리회로의 기본개념을 확
+립하고, 디지털 회로에서 부터 디지털시스템 설계 개념에 이르는 논리 회로에 대한 해석 능력 확립에 목적을 둔다.
+======
+
